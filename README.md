@@ -1,2 +1,2 @@
-# Advanced-Statistics-for-Physics
-Exercises of ASP in R language
+# Advanced-Statistics-for-Physics-Analysis
+Exercises of ASPA in R language
